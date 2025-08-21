@@ -16,8 +16,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
   - [NFT & Gaming](#nft--gaming)
   - [Automation](#automation)
   - [Data Analysis](#data-analysis)
-  - [Social & Community](#social--community)
-  - [Infrastructure](#infrastructure)
   - [Educational](#educational)
   - [Other](#other)
 - [Developer Tools](#developer-tools)
@@ -45,6 +43,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 > Agents focused on trading, DeFi protocols, and financial operations
 
 - **[LazaiTrader](https://github.com/SmartOnStuff/LazaiTrader)** - AI trading bot that automatically trades cryptocurrency through Telegram using Martingale strategy on gMetis-USDC and ETH-USDC pairs. Monitors prices 24/7 and provides AI-powered strategy recommendations. *by [@LazaiTrader](https://x.com/LazaiTrader)*
+- **[Tweetrade](https://github.com/lazydevpro/tweetrade-bot)** - Takes input from users, turns it into commands and executes trades on behalf of people on Twitter and dashboard. *by [@Penguinpecker1](https://x.com/Penguinpecker1)*
 
 ### NFT & Gaming
 > Agents for NFT management, gaming, and digital collectibles
@@ -57,7 +56,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 
 - **[LazaiTrader_alithbot](https://t.me/LazaiTrader_alithbot)** - Support bot based on Alith framework for easy onboarding of new users using generative AI. Leverages RAG capabilities pulling data directly from GitHub. *by [@LazaiTrader](https://x.com/LazaiTrader)*
 
+### Data Analysis
+> Agents for blockchain data analysis and insights
 
+- **[Project Completion AI Evaluator](https://github.com/rahul-rathore786/hyper-hack-project)** - AI agent that analyzes project title, description, and submitted code to determine completion percentage for fund distribution between clients and freelancers. *by [@Safe_Work_Pay](https://x.com/Safe_Work_Pay)*
 
 ### Educational
 > Agents focused on learning, tutoring, and educational content creation
@@ -67,7 +69,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 ### Other
 > Agents that don't fit into the above categories
 
-*No agents in this category yet. [Submit yours!](CONTRIBUTING.md)*
+- **[OrbitAI](https://github.com/AsheR4444/hyperion-hackathon)** - Conversational AI agent that bridges users with Metis and Hyperion infrastructure. Users can search for verified projects, execute real onchain swaps, access project directories, and explore integrated documentation. Built with LazAI tech and integrated into the Metis ecosystem. *by [@Orbit_Agent](https://x.com/Orbit_Agent)*
 
 
 
@@ -86,7 +88,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 
 ## Templates & Starters
 
-- [Basic Agent Template](https://github.com/alith-org/basic-template) - Simple starter template for new agents
 - [Twitter Agent Template](https://alith.lazai.network/docs/tutorials/twitter-agent) - Template for Twitter agents
 - [Telegram Bot Template](https://alith.lazai.network/docs/tutorials/tg-bot) - Template for Telegram bot agents
 
