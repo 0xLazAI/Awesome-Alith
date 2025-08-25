@@ -14,10 +14,11 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 - [Community Agents](#community-agents)
   - [Trading & DeFi](#trading--defi)
   - [NFT & Gaming](#nft--gaming)
-  - [Automation](#automation)
-  - [Data Analysis](#data-analysis)
+  - [Infrastructure & Development](#infrastructure--development)
+  - [Content Creation & AI Companions](#content-creation--ai-companions)
   - [Educational](#educational)
-  - [Other](#other)
+  - [Data Analysis & Evaluation](#data-analysis--evaluation)
+  - [Ecosystem & Integration](#ecosystem--integration)
 - [Developer Tools](#developer-tools)
 - [Libraries & SDKs](#libraries--sdks)
 - [Templates & Starters](#templates--starters)
@@ -50,24 +51,32 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for information on f
 
 - **[Festify AI Greetings](https://github.com/aliveevie/festify-ai-greetings)** - AI-powered agent that generates personalized festival greetings for the backend. Creates unique, occasion-specific messages that can be displayed, shared, or minted as digital greetings through the Festify platform. *by [@festify_ai](https://x.com/festify_ai)*
 - **[MortalCoin Alith Bot](https://github.com/MortalCoin/mortalcoin_alith_bot)** - In-game PvP bot that monitors game queues, joins games, evaluates game status, makes trading decisions, and executes transactions. Chain-agnostic design allows it to work on any blockchain. *by [@realtonyl](https://t.me/realtonyl)*
+- **[Score Milk Autonomous Agent](https://github.com/Score-Milk/sm-autonomous-agent)** - AI-powered gaming agent that simulates real-time opponents using Hyperion for on-chain score validation and Alith for AI personality integration. Features "Milkman" AI opponent with dynamic personality, real-time chat interactions, and Chaos Chess mode with random card mechanics. *by [@ScoreMilk](https://x.com/ScoreMilk)*
 
-### Automation
-> Agents that automate various blockchain and web3 tasks
+### Infrastructure & Development
+> Agents that provide infrastructure services, development tools, and platform capabilities
 
+- **[Haithe](https://github.com/haithedotai/core)** - Platform for creating multiple agents with 198+ agents created. Features agent creation, knowledge management, encryption/decryption, marketplace for custom knowledge/tools, and DAT reward system. Built entirely with Alith in Rust. *by [@haithedotai](https://x.com/haithedotai/)*
 - **[LazaiTrader_alithbot](https://t.me/LazaiTrader_alithbot)** - Support bot based on Alith framework for easy onboarding of new users using generative AI. Leverages RAG capabilities pulling data directly from GitHub. *by [@LazaiTrader](https://x.com/LazaiTrader)*
 
-### Data Analysis
-> Agents for blockchain data analysis and insights
+### Content Creation & AI Companions
+> Agents for content generation, AI companions, and creative applications
 
-- **[Project Completion AI Evaluator](https://github.com/rahul-rathore786/hyper-hack-project)** - AI agent that analyzes project title, description, and submitted code to determine completion percentage for fund distribution between clients and freelancers. *by [@Safe_Work_Pay](https://x.com/Safe_Work_Pay)*
+- **[MetaMuse](https://metamuse-tau.vercel.app/)** - AI companion you truly own with a verifiable personality. Features DAT integration, IPFS memory, local model chat inference, and RAG (Semantic) capabilities. *by MetaMuse*
+- **[GM² Degen](https://github.com/gm2social/gm2-lazai-dat-processor)** - AI-powered meme token terminal that enables anyone to launch meme tokens on Hyperion through a no-code interface. Integrated with LazAI inference nodes, creators can chat with AI to generate AI-attested meme tokens with badges, on-chain settlement, and DAT rewards. *by [@Gm2Social](https://x.com/Gm2Social)*
 
 ### Educational
 > Agents focused on learning, tutoring, and educational content creation
 
 - **[EduVerse AI Agents](https://github.com/amardeepio/Eduverse)** - Collection of 5 specialized AI agents: QuizGeneratorAgent (creates 6-question multiple-choice quizzes), TutorChatAgent (conversational AI tutor), TutorAgent (provides conceptual hints), StudyMaterialAgent (generates study guides), and TelegramBotAgent (friendly AI assistant for Telegram). *by [@EduverseAI_](https://x.com/EduverseAI_)*
 
-### Other
-> Agents that don't fit into the above categories
+### Data Analysis & Evaluation
+> Agents for data analysis, project evaluation, and insights
+
+- **[Project Completion AI Evaluator](https://github.com/rahul-rathore786/hyper-hack-project)** - AI agent that analyzes project title, description, and submitted code to determine completion percentage for fund distribution between clients and freelancers. *by [@Safe_Work_Pay](https://x.com/Safe_Work_Pay)*
+
+### Ecosystem & Integration
+> Agents that bridge different platforms, protocols, and ecosystems
 
 - **[OrbitAI](https://github.com/AsheR4444/hyperion-hackathon)** - Conversational AI agent that bridges users with Metis and Hyperion infrastructure. Users can search for verified projects, execute real onchain swaps, access project directories, and explore integrated documentation. Built with LazAI tech and integrated into the Metis ecosystem. *by [@Orbit_Agent](https://x.com/Orbit_Agent)*
 
